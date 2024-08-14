@@ -4,13 +4,5 @@ DOMAIN-KEYWORD,ulivetv
 IP-CIDR,154.12.178.0/24
 IP-CIDR,108.181.20.152/29,no-resolve
 DOMAIN,strn.wowotv.tw
-DOMAIN-SUFFIX,itv.cmvideo.cn
-DOMAIN,cache.ott.wasulive.itv.cmvideo.cn
-DOMAIN,cache.ott.bestlive.itv.cmvideo.cn
-DOMAIN,cache.ott.ystenlive.itv.cmvideo.cn
-DOMAIN,cache.ott.hnbblive.itv.cmvideo.cn
-DOMAIN,cache.ott.fifalive.itv.cmvideo.cn
-DOMAIN,www.right.com.cn
-DOMAIN,right.com.cn
-DOMAIN,www.ip138.com
-DOMAIN,ip138.com
+
+
