@@ -2,6 +2,8 @@
 DOMAIN,test.lifei555.cloudns.be
 DOMAIN-KEYWORD,ulivetv
 IP-CIDR,154.12.178.0/24
-IP-CIDR,108.181.20.152/29,no-resolve
+SRC-IP-CIDR,108.181.20.159/32,no-resolve
+SRC-IP-CIDR,108.181.32.169/32,no-resolve
 DOMAIN,strn.wowotv.tw
 DOMAIN,video.globo.com
+SRC-IP-CIDR,58.237.69.109/32,no-resolve
