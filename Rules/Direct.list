@@ -1,9 +1,26 @@
 # 自定义直连
 DOMAIN,test.lifei555.cloudns.be
+#星视界原始链接
 DOMAIN-KEYWORD,ulivetv
-IP-CIDR,154.12.178.0/24
+IP-CIDR,154.12.178.129/32,no-resolve
+#欧华
 SRC-IP-CIDR,108.181.20.159/32,no-resolve
+#焦点
 SRC-IP-CIDR,108.181.32.169/32,no-resolve
+#亚太电信
 DOMAIN,strn.wowotv.tw
+#巴西Globos代理里原始链接
 DOMAIN,video.globo.com
 SRC-IP-CIDR,58.237.69.109/32,no-resolve
+SRC-IP-CIDR,116.123.56.141/32,no-resolve
+SRC-IP-CIDR,182.228.253.152/32,no-resolve
+SRC-IP-CIDR,14.51.44.93/32,no-resolve
+DOMAIN-KEYWORD,titorus
+SRC-IP-CIDR,4.26.188.2/32,no-resolve
+SRC-IP-CIDR,123.212.201.54/32,no-resolve
+#HBO-GO
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN-KEYWORD,hbogoprod-vod
+#印尼TVA
+DOMAIN-SUFFIX,nomaden.co.id
+SRC-IP-CIDR,103.184.65.201/32,no-resolve
