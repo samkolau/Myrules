@@ -1,1 +1,4 @@
 IP-CIDR,150.138.8.143/32,no-resolve
+IP-CIDR,122.4.104.0/24,no-resolve
+IP-CIDR,150.138.9.0/24,no-resolve
+IP-CIDR,150.138.10.0/24,no-resolve
