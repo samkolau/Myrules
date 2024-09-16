@@ -1,1 +1,3 @@
 IP-CIDR,122.191.50.135/32,no-resolve
+IP-CIDR,122.191.52.0/24,no-resolve
+IP-CIDR,122.191.48.0/24,no-resolve
