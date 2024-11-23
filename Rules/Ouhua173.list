@@ -1,3 +1,4 @@
+//udp代理必须节点有udp: true才能实现分流，节点可手动添加
 IP-CIDR,173.208.176.178/32
 DOMAIN-SUFFIX,psyw3.ddns.net
 DOMAIN-SUFFIX,la15.ddns.net 
