@@ -1,0 +1,15 @@
+IP-CIDR,143.44.136.0/24,no-resolve
+IP-CIDR,136.239.159.0/24,no-resolve
+DOMAIN,qp-pldt-live-grp-01-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-02-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-03-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-04-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-05-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-06-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-07-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-08-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-09-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-10-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-11-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-12-prod.akamaized.net
+DOMAIN,qp-pldt-live-grp-13-prod.akamaized.net
