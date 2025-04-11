@@ -35,3 +35,5 @@ IP-CIDR,60.250.73.148/32,no-resolve
 IP-CIDR,220.128.91.207/32,no-resolve
 IP-CIDR,211.21.81.24/32,no-resolve
 IP-CIDR,211.21.81.24/32,no-resolve
+#海马
+IP-CIDR,38.75.136.217/32
