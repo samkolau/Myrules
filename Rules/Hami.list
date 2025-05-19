@@ -3,3 +3,11 @@ DOMAIN,rogersweblivea-hamivideo.cdn.hinet.net
 DOMAIN,mobileevent-hamivideo.cdn.hinet.net
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,hinet.recloudnat.xyz
+IP-CIDR,15.204.11.150/32,no-resolve
+IP-CIDR,82.152.161.82/32,no-resolve
+IP-CIDR,46.3.100.180/32,no-resolve
+IP-CIDR,147.135.40.71/32,no-resolve
+IP-CIDR,51.161.122.78/32,no-resolve
+DOMAIN,trinity100.us
+DOMAIN,trinity.trks.ca
+
