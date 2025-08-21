@@ -9,6 +9,29 @@ DOMAIN,adextra.51wnl-cq.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,r.51wnl-cq.com
 
+# > Adobe
+DOMAIN,dxyeyf6ecy.adobe.io
+DOMAIN,1hzopx6nz7.adobe.io
+DOMAIN,ic.adobe.io
+DOMAIN,p13n.adobe.io
+DOMAIN,p13n-mr.adobe.io
+DOMAIN,cai-identity.adobe.io
+DOMAIN,dyzt55url8.adobe.io
+DOMAIN,gw8gfjbsO5.adobe.io
+DOMAIN,2ftem87osk.adobe.io
+DOMAIN,phef2h2csf.adobe.io
+DOMAIN,7sj9n87sls.adobe.io
+DOMAIN,b5kbg2ggog.adobe.io
+DOMAIN,p7uxzbht8h.adobe.io
+DOMAIN,guzg78logz.adobe.io
+DOMAIN,crs.cr.adobe.com
+DOMAIN,photos.adobe.io
+DOMAIN,lcs-cops.adobe.io
+DOMAIN,cc-cdn.adobe.com
+DOMAIN,cc-api-data.adobe.io
+DOMAIN,cai-splunk-proxy.adobe.io
+DOMAIN-SUFFIX,adobe.io
+
 # (A)
 # > Apple
 DOMAIN-SUFFIX,iadsdk.apple.com
