@@ -121,4 +121,9 @@ DOMAIN,sh-bks400-08.starhubgo.com
 DOMAIN,sh-bks400-09.starhubgo.com
 DOMAIN,sh-bks400-10.starhubgo.com
 DOMAIN,sh-bks400-11.starhubgo.com
-
+#twli cross
+IP-CIDR,122.116.79.33/32
+DOMAIN,nyingma-freunde.ddns.net
+DOMAIN,www.tulkuajam.org
+DOMAIN,tulkuajamds213.synology.me
+DOMAIN,tulkuajam.org
