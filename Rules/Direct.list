@@ -86,3 +86,39 @@ IP-CIDR,203.205.136.71/32,no-resolve
 IP-CIDR,203.205.137.105/32,no-resolve
 IP-CIDR,203.205.137.202/32,no-resolve
 IP-CIDR,203.205.137.212/32,no-resolve
+#sgtel cross
+IP-CIDR,54.169.230.68/32
+IP-CIDR,170.187.226.9/32
+IP-CIDR,134.209.105.51/32
+IP-CIDR,13.251.150.10/32
+IP-CIDR,54.179.153.164/32
+DOMAIN-SUFFIX,futura-mall.com
+DOMAIN,170-187-226-9.ip.linodeusercontent.com
+DOMAIN,stage2.ministryofhelpers.com
+DOMAIN-SUFFIX,vinamart.site
+DOMAIN,www.gms-qms.com
+#hkmytv cross
+IP-CIDR,109.110.189.151/32
+IP-CIDR,103.45.68.47/32
+#sghub cross
+DOMAIN,bks01.starhubgo.com
+DOMAIN,bks02.starhubgo.com
+DOMAIN,bks03.starhubgo.com
+DOMAIN,bks04.starhubgo.com
+DOMAIN,bks05.starhubgo.com
+DOMAIN,bks06.starhubgo.com
+DOMAIN,bks07.starhubgo.com
+DOMAIN,co2-bks400-04.starhubgo.com
+DOMAIN,co2-bks400-05.starhubgo.com
+DOMAIN,mh-bks400-03.starhubgo.com
+DOMAIN,mh-bks400-04.starhubgo.com
+DOMAIN,mh-bks400-05.starhubgo.com
+DOMAIN,mh-bks400-06.starhubgo.com
+DOMAIN,mh-bks400-07.starhubgo.com
+DOMAIN,mh-bks400-08.starhubgo.com
+DOMAIN,sh-bks400-07.starhubgo.com
+DOMAIN,sh-bks400-08.starhubgo.com
+DOMAIN,sh-bks400-09.starhubgo.com
+DOMAIN,sh-bks400-10.starhubgo.com
+DOMAIN,sh-bks400-11.starhubgo.com
+
