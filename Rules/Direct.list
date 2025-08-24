@@ -17,8 +17,8 @@ IP-CIDR,123.212.201.54/32,no-resolve
 DOMAIN,hbogoprod-vod.akamaized.net
 DOMAIN-KEYWORD,hbogoprod-vod
 #印尼TVA
-DOMAIN-SUFFIX,nomaden.co.id
-IP-CIDR,103.184.65.201/32,no-resolve
+#DOMAIN-SUFFIX,nomaden.co.id
+#IP-CIDR,103.184.65.201/32,no-resolve
 #国外p2p
 DOMAIN,fccsen.dyndns.tv
 #UKL
@@ -139,6 +139,7 @@ DOMAIN,nyingma-freunde.ddns.net
 DOMAIN,www.tulkuajam.org
 DOMAIN,tulkuajamds213.synology.me
 DOMAIN,tulkuajam.org
+
 
 
 
