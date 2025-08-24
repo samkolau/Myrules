@@ -10,7 +10,6 @@ IP-CIDR,58.237.69.109/32,no-resolve
 IP-CIDR,116.123.56.141/32,no-resolve
 IP-CIDR,182.228.253.152/32,no-resolve
 IP-CIDR,14.51.44.93/32,no-resolve
-DOMAIN-KEYWORD,titorus
 IP-CIDR,4.26.188.2/32,no-resolve
 IP-CIDR,123.212.201.54/32,no-resolve
 #HBO-GO
@@ -139,6 +138,7 @@ DOMAIN,nyingma-freunde.ddns.net
 DOMAIN,www.tulkuajam.org
 DOMAIN,tulkuajamds213.synology.me
 DOMAIN,tulkuajam.org
+
 
 
 
