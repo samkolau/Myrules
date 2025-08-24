@@ -1,9 +1,3 @@
-# 自定义直连
-DOMAIN,test.lifei555.cloudns.be
-#星视界原始链接
-DOMAIN-KEYWORD,ulivetv
-IP-CIDR,154.12.178.129/32,no-resolve
-DOMAIN,strn.wowotv.tw
 #巴西Globos代理里原始链接
 DOMAIN,video.globo.com
 IP-CIDR,58.237.69.109/32,no-resolve
@@ -138,6 +132,7 @@ DOMAIN,nyingma-freunde.ddns.net
 DOMAIN,www.tulkuajam.org
 DOMAIN,tulkuajamds213.synology.me
 DOMAIN,tulkuajam.org
+
 
 
 
