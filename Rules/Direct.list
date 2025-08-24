@@ -96,6 +96,8 @@ DOMAIN,livestream.sunnxt.com
 DOMAIN-SUFFIX,sunnxt.com
 #尼泊尔udp
 IP-CIDR,103.28.84.17/32,no-resolve
+#巴基斯坦PTCL
+DOMAIN-SUFFIX,shoq.com.pk
 #sgtel cross
 IP-CIDR,54.169.230.68/32
 IP-CIDR,170.187.226.9/32
@@ -137,6 +139,7 @@ DOMAIN,nyingma-freunde.ddns.net
 DOMAIN,www.tulkuajam.org
 DOMAIN,tulkuajamds213.synology.me
 DOMAIN,tulkuajam.org
+
 
 
 
