@@ -1,1 +1,6 @@
 DOMAIN,crs.national-linear-red-tve.tve.cox.net
+#以下域名不必非得美国节点，为方便管理统一使用美国节点
+DOMAIN,dukecdedge02.national-linear-ddtc-tve.tve.cox.net
+DOMAIN,elcncdedge01.national-linear-dvtc-tve.tve.cox.net
+DOMAIN,fed1cdedge01.national-linear-dvtc-tve.tve.cox.net
+DOMAIN,dukecdedge01.national-linear-ddtc-tve.tve.cox.net
