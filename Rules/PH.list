@@ -13,3 +13,5 @@ DOMAIN,qp-pldt-live-grp-10-prod.akamaized.net
 DOMAIN,qp-pldt-live-grp-11-prod.akamaized.net
 DOMAIN,qp-pldt-live-grp-12-prod.akamaized.net
 DOMAIN,qp-pldt-live-grp-13-prod.akamaized.net
+#cignalplay官方地址
+DOMAIN,ucdn.mediaquest.com.ph
