@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,provider.plex.tv
 DOMAIN-SUFFIX,playouts.now.amagi.tv
 DOMAIN,amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv
 DOMAIN,dz27dyfoaaxhd.cloudfront.net
+#italkbbtv
+DOMAIN,api.italkbbtv.com
+DOMAIN,www.italkbbtv.com
+DOMAIN-KEYWORD,italkdd
