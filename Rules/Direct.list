@@ -130,3 +130,108 @@ DOMAIN,tulkuajamds213.synology.me
 DOMAIN,tulkuajam.org
 #HK****V*P*S
 IP-CIDR,38.76.219.123/32
+# Unbreak
+# > General
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
+# > Alibaba
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
+# > Google
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.googleapis-cn.com
+DOMAIN,safebrowsing.clients.google.com
+DOMAIN,safebrowsing-cache.google.com
+# >> Paramount+
+# DOMAIN,pubads.g.doubleclick.net
+# > Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com
+# > Strava
+DOMAIN,analytics.strava.com
+# > Umeng
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+# China Area Network
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN,download.jetbrains.com
+DOMAIN,origin-a.akamaihd.net // Origin Download
+# ---(Microsoft)---
+# > Outlook
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,smtp.office365.com
+# > Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN,download.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN,ntservicepack.microsoft.com
+# ------
+# > Tencent
+IP-CIDR,182.254.116.0/24,no-resolve
+IP-CIDR,203.205.238.0/23,no-resolve
+IP-CIDR,203.205.254.0/23,no-resolve
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
+# > Speed Test
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
+# > Private Tracker
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,animebytes.tv
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,chdbits.co
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdbits.org
+DOMAIN-SUFFIX,hdchina.org
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,totheglory.im
+
+# Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
+GEOIP,CN,no-resolve
+DOMAIN-SUFFIX,local
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.168.2.0/16,no-resolve
+IP-CIDR,192.168.3.0/16,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
