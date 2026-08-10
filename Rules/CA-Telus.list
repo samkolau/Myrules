@@ -95,7 +95,5 @@ DOMAIN,lott-vos-stb-opus.cdn.avp.telus.net
 DOMAIN,lott-web-opus.cdn.avp.telus.net
 DOMAIN,ls.cdn.avp.teluslabs.net
 DOMAIN,origin-irp-telus-hr-01.vos360.video
-DOMAIN-SUFFIX,cdn.avp.telus.net
-DOMAIN-SUFFIX,cdn.telus.com
 DOMAIN-SUFFIX,telus.net
 DOMAIN-SUFFIX,telus.com
