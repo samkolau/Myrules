@@ -1,4 +1,7 @@
 DOMAIN,ngtv-live-cbj.gcdn.co
 DOMAIN,unifi-live2.secureswiftcontent.com
 DOMAIN-SUFFIX,secureswiftcontent.com
-DOMAIN-SUFFIX,tm.quickplay.com
+DOMAIN,playback-auth-service.api.tm.quickplay.com
+DOMAIN,device-register-service.api.tm.quickplay.com
+DOMAIN,tkom-rest.evergent.com
+DOMAIN,auth-platform.api.tm.quickplay.com
