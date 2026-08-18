@@ -6,3 +6,5 @@ DOMAIN,device-register-service.api.tm.quickplay.com
 DOMAIN,tkom-rest.evergent.com
 DOMAIN,auth-platform.api.tm.quickplay.com
 DOMAIN,fi.touch-u.fun
+#RTM Klik，不想单开一个分类了，挂在这里
+DOMAIN,d25tgymtnqzu8s.cloudfront.net
