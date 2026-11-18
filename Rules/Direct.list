@@ -1,3 +1,6 @@
+#socks5http代理直连
+IP-CIDR,64.90.8.77/32
+IP-CIDR,47.83.254.124/32
 #荷兰Delta
 DOMAIN,cdn01.tv.delta.nl
 DOMAIN,cdn02.tv.delta.nl
